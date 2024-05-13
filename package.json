@@ -1,21 +1,21 @@
 {
-  "name": "goit-js-hw-08-v2",
+  "name": "goit-js-hw-08-v3",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://deioh.github.io/goit-js-hw-08-v2",
+  "homepage": "https://deioh.github.io/goit-js-hw-08-v3",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08-v2/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08-v3/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deioh/goit-js-hw-08-v2.git"
+    "url": "git+https://github.com/deioh/goit-js-hw-08-v3.git"
   },
   "keywords": [],
   "author": "Deioh Del Rosario <gamekuma@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deioh/goit-js-hw-08-v2/issues"
+    "url": "https://github.com/deioh/goit-js-hw-08-v3/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.23.0",
